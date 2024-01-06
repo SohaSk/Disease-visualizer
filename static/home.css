@@ -1,0 +1,117 @@
+*{
+    margin:0;
+    border: border-box;
+   }/* styling navlist */
+ #navlist {
+
+    background-color: #0074D9;
+    position: absolute;
+    width: 100%;
+    height: 53px;
+
+
+}
+
+/* styling navlist anchor element */
+#navlist a {
+    float:left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.recentSearches a {
+
+    display: block;
+    color: #c5d50b;
+
+    padding: 12px;
+    text-decoration: none;
+    font-size: 15px;
+
+}
+
+.navlist-right{
+    float:right;
+    display: flex;
+}
+
+/* hover effect of navlist anchor element */
+#navlist a:hover {
+    background-color: #ddd;
+    color: red;
+}
+
+/* styling search bar */
+.search input[type=text]{
+    width:450px;
+    height: 35px;
+    border-radius:15px;
+    border: none;
+
+}
+
+.search{
+    margin:7;
+}
+
+
+.search input[type=text]::placeholder {
+    color: rgb(117, 114, 114);
+    font-size: 15px;
+    font-style: normal;
+}
+     /* styling the input text
+     .search input[type=text] {
+        color: blue;
+    } */
+.search button{
+    background-color: #0074D9;
+    color: #f2f2f2;
+    float: right;
+    padding: 5px 10px;
+    margin-right: 16px;
+    font-size: 250px;
+    border: none;
+    cursor: pointer;
+}
+
+.shop-section {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+    flex-wrap: wrap;
+  }
+    .box {
+    /* border: 2px solid black; */
+    height: 400px;
+    width: 50%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 15px;
+    }
+    .box-img{
+    height: 300px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    }
+
+    .box-content{
+      margin-left: 1rem;
+      margin-right: 1rem;
+
+    }
+    .box-content p{
+      color:  #007185;
+    }
+
+.content h1{
+    color:rgb(143, 48, 238);
+    padding-top:60px;
+    padding-bottom: 20px;
+}

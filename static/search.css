@@ -1,0 +1,105 @@
+*{
+    margin:0;
+    border: border-box;
+   }/* styling navlist */
+ #navlist {
+
+    background-color: #0074D9;
+    position: absolute;
+    width: 100%;
+    height: 53px;
+
+
+}
+
+/* styling navlist anchor element */
+#navlist a {
+    float:left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.navlist-right{
+    float:right;
+    display: flex;
+}
+
+/* hover effect of navlist anchor element */
+#navlist a:hover {
+    background-color: #ddd;
+    color: red;
+}
+
+/* styling search bar */
+.search input[type=text]{
+    width:450px;
+    height: 35px;
+    border-radius:15px;
+    border: none;
+
+}
+
+.search{
+    margin:5px;
+}
+
+
+.search input[type=text]::placeholder {
+    color: rgb(117, 114, 114);
+    font-size: 15px;
+    font-style: normal;
+}
+     /* styling the input text
+     .search input[type=text] {
+        color: blue;
+    } */
+.search button{
+    background-color: #0074D9;
+    color: #f2f2f2;
+    float: left;
+    padding: 5px 10px;
+    margin-right: 16px;
+    font-size: 250px;
+    border: none;
+    cursor: pointer;
+}
+.dashboard-button {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #0074D9;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.dashboard-button a {
+   color: white;
+   text-decoration: none;
+}
+
+.Name {
+text-align: center;
+font-size: 25px;
+font-weight: bold;
+padding: 7px;
+color: black;
+
+}
+
+.para {
+font-size: 18px;
+color: black;
+padding: 10px
+}
+.

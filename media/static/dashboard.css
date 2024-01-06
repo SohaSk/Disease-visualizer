@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    border: border-box;
+   }/* styling navlist */
+ #navlist {
+
+    background-color: #0074D9;
+    position: absolute;
+    width: 100%;
+    height: 53px;
+
+
+}
+
+/* styling navlist anchor element */
+#navlist a {
+    float:left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.navlist-right{
+    float:right;
+    display: flex;
+}
+
+/* hover effect of navlist anchor element */
+#navlist a:hover {
+    background-color: #ddd;
+    color: red;
+}
+
+/* styling search bar */
+
+
