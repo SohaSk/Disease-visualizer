@@ -137,6 +137,10 @@ For updates, events, and highlights from the Milestone Club, follow us on [Insta
 
 ## Our Contributors
 
-<a href="https://github.com/OWNER/REPO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OWNER/REPO" />
+<a href="https://github.com/SohaSk/DataVisualizer/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SohaSk/DataVisualizer&max=400&columns=20" />
 </a>
+
+## Contribution Guidelines
+
+Please read our [Contribution Guidelines](CONTRIBUTING.md) before contributing to this project.
