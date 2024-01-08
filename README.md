@@ -3,7 +3,7 @@
 
 <h1 align="center"> <img src="https://github.com/SohaSk/DataVisualizer/blob/main/media/static/heartbeat2.png" width="35" />Data Visualizer
 </h1>
-<hr>
+
 
   A simple and informative health tracker made with HTML,CSS,Javascript and Django helps you in giving stats of the diseases.
 
