@@ -5,11 +5,13 @@
 </h1>
 
 
-  A simple and informative health tracker made with HTML,CSS,Javascript and Django helps you in giving stats of the diseases.
+  App which serves as an informative resource on diseases and also fosters a data-driven approach to healthcare.
 
 ## What is Data Visualizer :thinking: 
 
- This project addresses the critical issue of the lack of easily accessible and visually informative information about common diseases and their regional prevalence.In a world where health literacy is of paramount importance, the absence of a centralized and user-friendly platform for understanding the prevalence of diseases poses a significant challenge. Data Visualizer aims to bridge this gap by providing a comprehensive and visually intuitive resource that empowers individuals with the knowledge needed to make informed decisions about public health.
+ This data visualization project serves as a  platform for understanding diseases by providing in-depth insights into their symptoms, precautions and associated data. Leveraging advanced visualization techniques, the project presents a user-friendly interface with interactive dashboards that allow users to explore a vast array of health conditions.
+One key aspect of the project is its emphasis on accessibility and user engagement. Through dynamic charts, graphs, and infographics, complex medical information is transformed into easily understandable visuals. This approach encourages users, ranging from healthcare professionals to the general public, to engage with and comprehend the nuances of various diseases.
+
  <br>
  
  ![home page](https://github.com/SohaSk/DataVisualizer/assets/94692989/c9393f6a-98ab-4b61-803e-4ab5c6fb2de8)
