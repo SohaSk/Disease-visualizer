@@ -2,10 +2,11 @@
 ![milestone club logo](https://github.com/SohaSk/DataVisualizer/assets/94692989/67dd395d-98a6-4ad3-908e-31d164dbfe3e)
 
 <p align="center">
-  <img src="https://github.com/SohaSk/DataVisualizer/blob/main/logoimages/website_logo.jpg" alt="Image Description" width="60" height="60"> <span style="font-size: 56px;">Your larger text here.</span>
+  <img src="https://github.com/SohaSk/DataVisualizer/blob/main/logoimages/website_logo.jpg" alt="Image Description" width="60" height="60"> <span style="font-size: 56px;">Data Visualizer</span>
 </p>
+<hr>
 
-
+A 
 
 
 
