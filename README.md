@@ -1,12 +1,11 @@
 
 ![milestone club logo](https://github.com/SohaSk/DataVisualizer/assets/94692989/67dd395d-98a6-4ad3-908e-31d164dbfe3e)
 
-<p align="center">
-  <img src="https://github.com/SohaSk/DataVisualizer/blob/main/logoimages/website_logo.jpg" alt="Image Description" width="60" height="60"> <span style="font-size: 56px;">Data Visualizer</span>
-</p>
+<h1 align="center"> <img src="https://github.com/SohaSk/DataVisualizer/blob/main/media/static/heartbeat2.png" width="35" />Data Visualizer
+</h1>
 <hr>
 
-  A simple and informative health tracker made HTML,CSS,Javascript and Django helps you in giving stats of the diseases.
+  A simple and informative health tracker made with HTML,CSS,Javascript and Django helps you in giving stats of the diseases.
 
 ## What is Data Visualizer :thinking: 
 
