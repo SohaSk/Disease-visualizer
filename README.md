@@ -1,6 +1,12 @@
 
 ![milestone club logo](https://github.com/SohaSk/DataVisualizer/assets/94692989/67dd395d-98a6-4ad3-908e-31d164dbfe3e)
 
+<p align="center">
+  <img src="your_image_url_here" alt="Image Description" width="100" height="100"> Your text here.
+</p>
+
+
+
 ## Quick Start
 
 Set up locally
