@@ -1,3 +1,6 @@
+
+![milestone club logo](https://github.com/SohaSk/DataVisualizer/assets/94692989/67dd395d-98a6-4ad3-908e-31d164dbfe3e)
+
 ## Quick Start
 
 Set up locally
