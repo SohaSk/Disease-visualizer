@@ -1,1 +1,0 @@
-var searchValue = localStorage.getItem("searchValue");
