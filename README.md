@@ -1,13 +1,13 @@
 
 ![milestone club logo](https://github.com/SohaSk/DataVisualizer/assets/94692989/67dd395d-98a6-4ad3-908e-31d164dbfe3e)
 
-<h1 align="center"> <img src="https://github.com/SohaSk/DataVisualizer/blob/main/media/static/heartbeat2.png" width="35" />Data Visualizer
+<h1 align="center"> <img src="https://github.com/SohaSk/DataVisualizer/blob/main/media/static/heartbeat2.png" width="35" />Disease Visualizer
 </h1>
 
 
   App which serves as an informative resource on diseases and also fosters a data-driven approach to healthcare.
 
-## What is Data Visualizer :thinking: 
+## What is Disease Visualizer :thinking: 
 
  This data visualization project serves as a  platform for understanding diseases by providing in-depth insights into their symptoms, precautions and associated data. Leveraging advanced visualization techniques, the project presents a user-friendly interface with interactive dashboards that allow users to explore a vast array of health conditions.
 One key aspect of the project is its emphasis on accessibility and user engagement. Through dynamic charts, graphs, and infographics, complex medical information is transformed into easily understandable visuals. This approach encourages users, ranging from healthcare professionals to the general public, to engage with and comprehend the nuances of various diseases.
