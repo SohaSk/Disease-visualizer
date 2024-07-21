@@ -33,7 +33,7 @@ Set up locally
    • Download or clone the project repository from GitHub.
       
       ```python
-       gh repo clone SohaSk/DataVisualizer
+       gh repo clone SohaSk/Disease-visualizer
       ```
     
     
